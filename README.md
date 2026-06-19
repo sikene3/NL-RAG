@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/ec7d07ce-f84b-4535-aaf7-e3a075fa5b5c
+
+
+
 # NL RAG — Local Retrieval-Augmented Generation System
 
 ## 🎥 Project Demo
